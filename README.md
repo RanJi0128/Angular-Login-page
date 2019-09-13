@@ -1,2 +1,4 @@
-# Angular-Login-page
-Angular User Role and Authentication Dynamic page load
+# angular-8-role-based-authorization
+
+Angular 8 - Role Based Authorization with the Angular CLI
+
